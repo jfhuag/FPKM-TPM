@@ -4,7 +4,7 @@
 Convert FPKM to TPM
 Created by Tim Stuart
 Usage:
-python fpkm_tpm.py [infile] [column] > outfile.txt
+python fpkm_tpm.py -f [infile] -c [column] > outfile.txt
 """
 
 from __future__ import division
